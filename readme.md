@@ -19,8 +19,6 @@ This list likely isn't exhaustive. Please help fill in the gaps.
 
 ## Official sources
 
-[[MAX31856.pdf]]
-
 https://www.analog.com/en/products/max31856.html
 
 FAQ  : https://ez.analog.com/search?engineerzone%5Bquery%5D=MAX31856
