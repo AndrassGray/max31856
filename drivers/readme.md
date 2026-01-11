@@ -30,4 +30,3 @@ https://github.com/engineertype/MAX31856
 ## Stephen Smith (Python)
 
 https://github.com/steve71/MAX31856
-
